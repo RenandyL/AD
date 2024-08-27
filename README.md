@@ -33,7 +33,7 @@ This tutorial outlines the process of unlocking a user account and password rese
 <img src="https://github.com/user-attachments/assets/9625c8c7-2979-4bc4-9d5a-30af659e6d7f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Find the user and reset the password in Active Directory.
+Find the user in Active Directory and reset the password. Click 'Apply' and 'Ok' to reset the password.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Find the user and reset the password in Active Directory.
 <img src="https://github.com/user-attachments/assets/329d0413-a9cd-4159-9441-d8b6cfa1a61f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Find the user and unlock their account.
+If the ticket is for unlocking a user account, find the user in Active Directory and unlock their account. Click 'Apply' and 'Ok' to get the account unlocked.
 </p>
 <br />
 
