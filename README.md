@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory</h1>
-This tutorial outlines the process of unlocking a user account and password reset in Active Directory within Azure Virtual Machines.<br />
+This project outlines the process of unlocking a user account and password reset in Active Directory.<br />
 
 
 
